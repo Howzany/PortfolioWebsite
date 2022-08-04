@@ -45,7 +45,31 @@ p {
   background:black;
   height: border-box;
   margin:0px;
-  padding:32px;
+  padding:12px;
   border:32px;
   text-align: center;
+}
+
+li {
+  font-family: 'Arial';
+  font-size: 18px;
+  color:white;
+  background:black;
+  height: border-box;
+  margin:0px;
+  padding:12px;
+  border:32px;
+  text-align: center;
+}
+
+img {
+  background-color:black; /*doesn't seem to be working yet for the color background of image*/
+  page-align:center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
