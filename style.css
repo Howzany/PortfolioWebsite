@@ -1,1 +1,51 @@
-/*temporary place holder for now*/
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Arial';
+  font-size: 48px;
+  color:maroon;
+  background:black;
+  height: border-box;
+  margin:0px;
+  padding:32px;
+  border:32px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Arial';
+  font-size: 32px;
+  color:gold;
+  background:black;
+  height: border-box;
+  margin:0px;
+  padding:32px;
+  border:32px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Arial';
+  font-size: 24px;
+  color:silver;
+  background:black;
+  height: border-box;
+  margin:0px;
+  padding:32px;
+  border:32px;
+  text-align: center;
+}
+p {
+ font-family: 'Arial';
+  font-size: 18px;
+  color:white;
+  background:black;
+  height: border-box;
+  margin:0px;
+  padding:32px;
+  border:32px;
+  text-align: center;
+}
