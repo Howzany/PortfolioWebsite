@@ -73,3 +73,9 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
+a:link {color:green;}
+a:visited {color:darkgreen;}
+a:hover {color:lightgreen;}
+a:active {color:darkolivegreen;}
+/* the above was to make link roll over to be different colors. I couldn't find a dark green that was lighter than dark green but darker than green so I used dark olive green. */
