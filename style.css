@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
 }
-
+/* I still need to figure out somehow how to eliminate the blank white space that sometimes appear when running this site in replit*/
 h1 {
   font-family: 'Arial';
   font-size: 48px;
@@ -49,7 +49,9 @@ p {
   border:32px;
   text-align: center;
 }
-
+/* for both p and li and maybe even h3 I think I may need to adjust the margin, border, padding, and such so that there's no more white space
+but it's a real pain right now since Github doesn't show me what it looks like and I'm not even sure if Replit is giving me exactly what I'd see
+if this webpage went live*/
 li {
   font-family: 'Arial';
   font-size: 18px;
@@ -74,8 +76,11 @@ img {
   width: 50%;
 }
 
+/*I think I would like to somehow use images for <hr> breaks in the page and make them look fancy like goth victorian brocade and stuff but
+for now I'm going to hold off on that*/
+
 a:link {color:green;}
 a:visited {color:darkgreen;}
 a:hover {color:lightgreen;}
 a:active {color:darkolivegreen;}
-/* the above was to make link roll over to be different colors. I couldn't find a dark green that was lighter than dark green but darker than green so I used dark olive green. */
+/* personally I think making links change colors is super tacky and I'd avoid it, but I'll do this for the assignment */
