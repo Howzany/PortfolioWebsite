@@ -64,10 +64,10 @@ li {
   text-align: center;
 }
 
-img {
-  background-color:black; /*doesn't seem to be working yet for the color background of image*/
-  page-align:center;
-}
+
+   /*img doesn't seem to be working yet for the color background of image and so I removed it from css so that I can make sure the image works*/
+ 
+
 
 .center { /*This thing here is needed to help with image class definition in html for the image to be centered*/
   display: block;
