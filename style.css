@@ -67,7 +67,7 @@ img {
   page-align:center;
 }
 
-.center {
+.center { /*This thing here is needed to help with image class definition in html for the image to be centered*/
   display: block;
   margin-left: auto;
   margin-right: auto;
