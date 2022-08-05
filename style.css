@@ -45,8 +45,8 @@ p {
   background:black;
   height: border-box;
   margin:0px;
-  padding:12px;
-  border:32px;
+  padding:6px;
+  border:12px;
   text-align: center;
 }
 /* for both p and li and maybe even h3 I think I may need to adjust the margin, border, padding, and such so that there's no more white space
@@ -59,8 +59,8 @@ li {
   background:black;
   height: border-box;
   margin:0px;
-  padding:12px;
-  border:32px;
+  padding:6px;
+  border:12px;
   text-align: center;
 }
 
