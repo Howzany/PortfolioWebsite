@@ -64,6 +64,11 @@ li {
   text-align: center;
 }
 
+img.smaller { /*I was asked to resize my picture so here's what I did*/
+  max-width:30%;
+  max-height:30%;
+}
+
 
    /*img doesn't seem to be working yet for the color background of image and so I removed it from css so that I can make sure the image works*/
  
