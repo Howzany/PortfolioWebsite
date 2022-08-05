@@ -1,7 +1,4 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
+
 /* I still need to figure out somehow how to eliminate the blank white space that sometimes appear when running this site in replit*/
 h1 {
   font-family: 'Arial';
